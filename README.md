@@ -8,14 +8,7 @@ Este projeto tem como objetivo Classificar interações de e-commerce em **Detra
   
 ## 📊 Técnicas e Etapas Utilizadas
 
-- Análise Exploratória de Dados (EDA)
-- Tratamento de dados ausentes e duplicados
-- Remoção de outliers com **método do IQR**
-- Normalização com **MinMaxScaler**
-- Algoritmo de **clusterização KMeans**
-- Avaliação com **Método do Cotovelo** e **Silhouette Score**
-- Visualizações: boxplots, scatterplots, gráficos de marcas por cluster
-- Interpretação e perfil dos grupos identificados
+
 
 ## 🛠️ Tecnologias
 
@@ -25,7 +18,7 @@ Este projeto tem como objetivo Classificar interações de e-commerce em **Detra
 
 ## 📁 Arquivo do Projeto
 
-🔗 [Clique aqui para acessar o notebook](https://github.com/fabsy381/MVP-An-lise-de-Dados/blob/main/MVP_An%C3%A1lise_de_Dados_Segmenta%C3%A7%C3%A3o_de_clientes.ipynb)
+🔗 
 
 ## 👤 Licença / Autoria
 
