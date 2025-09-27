@@ -24,8 +24,10 @@ Este projeto tem como objetivo Classificar interações de e-commerce em **Detra
 
 **Fabiane Silveira**  
 
-PUC-RIO 
+PUC-RIO  
+
 Curso: CIÊNCIA DE DADOS E ANALYTICS
+
 Sprint: Machine Learning & Analytics
 
 Projeto acadêmico para avaliação; uso interno/educacional.
