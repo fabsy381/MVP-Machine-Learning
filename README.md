@@ -33,17 +33,14 @@ Projeto para classificar interações de clientes em **Detrator**, **Neutro** ou
    - `monitor_baseline.json` e `pred_log.parquet` (monitoramento)
 
 ## 📁 Arquivos do Projeto
-🔗 
+🔗 https://github.com/fabsy381/MVP-Machine-Learning.git
 
 ## 👤 Licença / Autoria
 
 **Fabiane Silveira**  
 
 PUC-RIO  
-
-Curso: CIÊNCIA DE DADOS E ANALYTICS
-
-Sprint: Machine Learning & Analytics
-
-Projeto acadêmico para avaliação; uso interno/educacional.
+- Curso: CIÊNCIA DE DADOS E ANALYTICS
+- Sprint: Machine Learning & Analytics
+- Projeto acadêmico para avaliação; uso interno/educacional.
 
