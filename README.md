@@ -7,7 +7,7 @@ Projeto para classificar interações de clientes em **Detrator**, **Neutro** ou
 - Priorizar campanhas de retenção e indicação com base na classe prevista.
 - Entregar um MVP simples, reprodutível e pronto para piloto.
 
-## 📊 Técnicas e Etapas realizadas
+## 📊 Técnicas e Etapas Realizadas
 - **Exploração e limpeza** dos dados (duplicatas/valores inválidos).
 - **Criação do alvo** (Detrator/Neutro/Promotor) a partir da probabilidade original.
 - **Divisão treino/teste** com estratificação.
