@@ -39,25 +39,6 @@ Projeto para classificar interações de clientes em **Detrator**, **Neutro** ou
 **Fabiane Silveira**
 
 
-
-
-Este projeto tem como objetivo Classificar interações de e-commerce em **Detrator, Neutro ou Promotor** a partir de dados do produto, comportamento e contexto.
-
-## 🎯 Objetivo do Projeto
-
-- O objetivo principal deste projeto é construir um modelo de classificação multiclasse capaz de rotular interações de e-commerce como Promotor, Neutro ou Detrator, utilizando a seguinte variáveL preditora: características do produto, da interação e do cliente.
-  
-## 📊 Técnicas e Etapas Utilizadas
-
-
-
-## 🛠️ Tecnologias
-
-- Python
-- Pandas, NumPy, Seaborn, Matplo
-
-## 📁 Arquivo do Projeto
-
 🔗 
 
 ## 👤 Licença / Autoria
