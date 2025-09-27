@@ -32,13 +32,7 @@ Projeto para classificar interações de clientes em **Detrator**, **Neutro** ou
    - `mvp_metadata.json` (colunas, classes, métricas)
    - `monitor_baseline.json` e `pred_log.parquet` (monitoramento)
 
-## 📁 Arquivo do Projeto
-- Notebook: `MVP_NPS_Completo_2.ipynb`
-
-## 👤 Autoria
-**Fabiane Silveira**
-
-
+## 📁 Arquivos do Projeto
 🔗 
 
 ## 👤 Licença / Autoria
